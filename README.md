@@ -4,7 +4,7 @@
 运行（如sudo无法正常使用且已经有root权限，请去掉sudo运行）：
 
 ```
-curl -L https://raw.githubusercontent.com/applexad/nezhascript/main/install.sh  -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh
+curl -L https://raw.githubusercontent.com/LHuaQ/nezha/main/install.sh  -o nezha.sh && chmod +x nezha.sh && sudo ./nezha.sh
 ```
 
 大陆加速代理：
