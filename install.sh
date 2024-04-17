@@ -69,7 +69,7 @@ pre_check() {
         GITHUB_URL="github.com"
         GITHUB_RELEASE_URL="github.com/applexad/nezha-binary-build/releases/latest/download"
     else
-        GITHUB_RAW_URL="external.githubfast.com/https/raw.githubusercontent.com/applexad/nezhascript/main"
+        GITHUB_RAW_URL="external.githubfast.com/https/raw.githubusercontent.com/LHuaQ/nezha/main"
         GITHUB_URL="githubfast.com"
         GITHUB_RELEASE_URL="githubfast.com/applexad/nezha-binary-build/releases/latest/download"
     fi
